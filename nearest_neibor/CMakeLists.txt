@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 2.8)
+project( ResizeImage )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_library(scale src/scale-image.cpp src/scale-image.hpp)
+add_executable( ResizeImage src/main.cpp )
+target_link_libraries(ResizeImage scale)
+target_link_libraries( ResizeImage ${OpenCV_LIBS} )

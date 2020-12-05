@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblagrange.a  CMakeFiles/lagrange.dir/src/lagrange.cpp.o
+/usr/bin/ranlib liblagrange.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscale.a  CMakeFiles/scale.dir/src/scale-image.cpp.o
+/usr/bin/ranlib libscale.a

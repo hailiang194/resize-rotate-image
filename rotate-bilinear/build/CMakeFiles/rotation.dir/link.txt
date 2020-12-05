@@ -1,0 +1,2 @@
+/usr/bin/ar qc librotation.a  CMakeFiles/rotation.dir/src/rotate.cpp.o
+/usr/bin/ranlib librotation.a

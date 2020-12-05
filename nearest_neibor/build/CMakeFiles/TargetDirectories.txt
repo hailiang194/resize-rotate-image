@@ -1,0 +1,4 @@
+/home/hailiang194/Documents/opencv-tutorial/resize-rotate-image/nearest_neibor/build/CMakeFiles/edit_cache.dir
+/home/hailiang194/Documents/opencv-tutorial/resize-rotate-image/nearest_neibor/build/CMakeFiles/ResizeImage.dir
+/home/hailiang194/Documents/opencv-tutorial/resize-rotate-image/nearest_neibor/build/CMakeFiles/rebuild_cache.dir
+/home/hailiang194/Documents/opencv-tutorial/resize-rotate-image/nearest_neibor/build/CMakeFiles/scale.dir

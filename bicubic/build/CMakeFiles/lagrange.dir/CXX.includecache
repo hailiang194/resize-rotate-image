@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hailiang194/Documents/opencv-tutorial/resize-rotate-image/bicubic/src/lagrange.cpp
+lagrange.hpp
+/home/hailiang194/Documents/opencv-tutorial/resize-rotate-image/bicubic/src/lagrange.hpp
+
+/home/hailiang194/Documents/opencv-tutorial/resize-rotate-image/bicubic/src/lagrange.hpp
+vector
+-
+

@@ -1,0 +1,4 @@
+/home/hailiang194/Documents/opencv-tutorial/resize-rotate-image/rotate-bilinear/build/CMakeFiles/rebuild_cache.dir
+/home/hailiang194/Documents/opencv-tutorial/resize-rotate-image/rotate-bilinear/build/CMakeFiles/edit_cache.dir
+/home/hailiang194/Documents/opencv-tutorial/resize-rotate-image/rotate-bilinear/build/CMakeFiles/RotateImage.dir
+/home/hailiang194/Documents/opencv-tutorial/resize-rotate-image/rotate-bilinear/build/CMakeFiles/rotation.dir
